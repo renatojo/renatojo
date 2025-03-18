@@ -1,7 +1,12 @@
-RENATO DUARTE | Desenvolvedor
+## RENATO DUARTE | Desenvolvedor ##
+
 🔹 Tecnologias: JavaScript, React
+
 🔹 Especialização: Desenvolvimento Web
+
 🔹 Projetos: 
+
+
 
 💼 Experiência: Curso de Qualificação em React | SENAI
 
