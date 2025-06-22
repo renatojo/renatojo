@@ -4,7 +4,7 @@ I'm a student focused on technology and STEM fields, with experience using Linux
 
 ## 🧠 Skills
 
-- **Systems:** Linux (MiniOS), Git, VS Code  
+- **Systems:** Linux, Git, VS Code  
 - **Languages:** JavaScript (beginner), PHP (beginner), HTML/CSS  
 
 ## 🎯 Goals
