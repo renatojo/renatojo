@@ -19,3 +19,4 @@ Currently preparing for the national university entrance exam. My goal is to stu
 ## 📫 Contact
 
 📧 renatojose.mo@gmail.com  
+[View my resume here](https://drive.google.com/file/d/1zg7wnmWLwSW0sgVy8vT1OTG1LvoCYzUb/view?usp=drive_link)
