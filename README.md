@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Estudante de Ciência de Dados e Inteligência Artificial na FGV Rio.<br><br>Interesse em Machine Learning, Ciência de Dados, Engenharia de Software e desenvolvimento em Python.<br><br>Atualmente desenvolvendo projetos acadêmicos e pessoais para aprofundar conhecimentos em análise de dados e programação.
 
 
