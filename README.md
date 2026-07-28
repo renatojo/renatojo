@@ -1,22 +1,9 @@
-# Renato Duarte
+# 💫 About Me:
+Estudante de Ciência de Dados e Inteligência Artificial na FGV Rio.<br><br>Interesse em Machine Learning, Ciência de Dados, Engenharia de Software e desenvolvimento em Python.<br><br>Atualmente desenvolvendo projetos acadêmicos e pessoais para aprofundar conhecimentos em análise de dados e programação.
 
-I'm a student focused on technology and STEM fields, with experience using Linux systems and a growing interest in programming and software engineering.
 
-## 🧠 Skills
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renatoj.ose) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-duarte-2720a3394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renatojose.mo@gmail.com) 
 
-- **Systems:** Linux, Git, VS Code  
-- **Languages:** JavaScript (beginner), PHP (beginner), HTML/CSS  
-
-## 🎯 Goals
-
-Currently preparing for the national university entrance exam. My goal is to study Computer Science, Data Science, or Computer Engineering at a public university.
-
-## 🏅 Achievements
-
-- Medalist in national academic olympiads  
-- Personal learning projects focused on hands-on development
-
-## 📫 Contact
-
-📧 renatojose.mo@gmail.com  
-[View my resume here](https://drive.google.com/file/d/1zg7wnmWLwSW0sgVy8vT1OTG1LvoCYzUb/view?usp=drive_link)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
